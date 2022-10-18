@@ -1,0 +1,204 @@
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+}
+
+p {
+    font-size: 17px;
+}
+
+.flooded-people {
+    text-align: center;
+    color: white;
+}
+
+#main-header {
+    font-size: 40px;
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-top: 0;
+    padding-top: 190px;
+}
+
+.donate-style {
+    border: none;
+    outline: none;
+    width: 120px;
+    padding: 8px;
+    margin-top: 40px;
+    margin-left: 605px;
+    background-color: indianred;
+    color: white;
+}
+
+.top-field {
+    background-image: url(donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+
+}
+
+.second-header {
+    font-weight: 900px;
+    font-size: 40px;
+}
+
+.donation-people {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.tk-style {
+    border: none;
+    outline: none;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(235, 230, 230);
+    margin: 40px;
+    font-size: 20px;
+    font-weight: 800;
+    color: navy;
+
+}
+
+input {
+    outline: none;
+    border: none;
+    font-size: 18px;
+
+}
+
+#change-tk {
+    border: none;
+    outline: none;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(238, 178, 198);
+    margin: 40px;
+    font-size: 20px;
+    font-weight: 800;
+    color: navy;
+}
+
+#list-style {
+    display: flex;
+    list-style-type: none;
+    width: 900px;
+    margin-left: 150px;
+
+}
+
+.donation-plan {
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.inside-plan {
+    display: block;
+    margin: 30px;
+    padding: 10px;
+    text-align: justify;
+    height: 350px;
+
+}
+
+.medicine-color {
+    border: 2px solid rgb(205, 225, 233);
+    background-color: rgb(205, 225, 233);
+
+}
+
+.image-size {
+    height: 90px;
+
+}
+
+.shelter-color {
+    border: 2px solid rgb(235, 232, 202);
+    background-color: rgb(235, 232, 202);
+}
+
+.food-color {
+    border: 2px solid rgb(231, 184, 176);
+    background-color: rgb(231, 184, 176);
+}
+
+.impact-half {
+    width: 50%;
+    margin-left: 80px;
+    text-align: justify;
+}
+
+.impact-half img {
+    width: 50%;
+    margin-left: 40px;
+    height: 430px;
+    width: auto;
+    margin-right: 80px;
+}
+
+#impact-style {
+    border: none;
+    outline: none;
+    width: 180px;
+    padding: 10px;
+    text-align: center;
+    background-color: indianred;
+    color: white;
+    font-weight: 600px;
+    margin-top: 30px;
+
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+    border: none;
+    width: 600px;
+    height: 150px;
+    box-sizing: border-box;
+    margin-left: 400px;
+}
+
+.box input {
+    font-size: 20px;
+    padding: 10px 7px;
+    border: none;
+    outline: none;
+    background-color: rgb(224, 221, 221);
+}
+
+.box button {
+    font-size: 18px;
+    padding: 10px 7px;
+    border: none;
+    outline: none;
+    background-color: rgb(212, 85, 63);
+    color: white;
+}
+
+footer {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100px;
+    color: white;
+    padding: 30px;
+    margin-top: 150px;
+}
+
+.footer-style {
+    color: brown;
+    font-size: 35px;
+    font-weight: 700px;
+}
